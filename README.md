@@ -12,12 +12,6 @@ Python 3.7+
 MySQL
 Required Python libraries (see Installation section)
 Installation
-Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/your-username/career-aspiration-analysis.git
-cd career-aspiration-analysis
 Set Up the Virtual Environment
 
 bash
@@ -42,7 +36,7 @@ Copy code
 streamlit run app.py
 Interact with the Application
 
-Open your web browser and go to http://localhost:8501 to access the application.
+Open your web browser and go to http://localhost:8501 or http://localhost:8500 to access the application.
 Use the interface to select different analysis options and visualize the data.
 Dependencies
 MySQL Connector: Used to connect to the MySQL database.
