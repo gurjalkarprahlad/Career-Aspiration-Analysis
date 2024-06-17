@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    aziz:
+      email: shaik@gmail.com
+      name: sharuk
+      password: '$2b$12$6KZZMMLCo4d.Gtt/z8RTG.DfYRyE0rdNfCReOXhoBlr2xfkj0PIPG'
+    prahlad:
+        email: prahlad@gmail.com
+        name: Gurjalkar
+        password: '$2b$12$6KZZMMLCo4d.Gtt/z8RTG.DfYRyE0rdNfCReOXhoBlr2xfkj0PIPG'
+cookie:
+  expiry_days: 30
+  key: random_signature_key #must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+    -shaikabdulaziz99@gmail.com
